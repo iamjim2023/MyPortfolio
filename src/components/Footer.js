@@ -17,7 +17,7 @@ const Footer = () => {
       <div className="footer-container">
         <div className="left">
           <div className="location">
-            <FaHome size={24} style={{ color: "#fff", marginRight: "2rem" }} />
+            <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
             <div>
               <p>106 Claridades St.</p>
               <p> Catanghalan Obando Bulacan.</p>
