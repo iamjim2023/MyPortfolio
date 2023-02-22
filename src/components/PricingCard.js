@@ -16,7 +16,7 @@ const PricingCard = () => {
           <p>- Featured -</p>
           <p>- Responsive Design -</p>
           <Link to="/contact" className="btn">
-            PURCHASE NOW
+            PURCHASE NOW !
           </Link>
         </div>
 
@@ -29,7 +29,7 @@ const PricingCard = () => {
           <p>- Featured -</p>
           <p>- Responsive Design -</p>
           <Link to="/contact" className="btn">
-            PURCHASE NOW
+            PURCHASE NOW !
           </Link>
         </div>
 
@@ -42,7 +42,7 @@ const PricingCard = () => {
           <p>- Featured -</p>
           <p>- Responsive Design -</p>
           <Link to="/contact" className="btn">
-            PURCHASE NOW
+            PURCHASE NOW !
           </Link>
         </div>
       </div>
