@@ -17,7 +17,7 @@ const Footer = () => {
       <div className="footer-container">
         <div className="left">
           <div className="location">
-            <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
+            <FaHome size={24} style={{ color: "#fff", marginRight: "2rem" }} />
             <div>
               <p>106 Claridades St.</p>
               <p> Catanghalan Obando Bulacan.</p>
@@ -29,7 +29,7 @@ const Footer = () => {
                 size={20}
                 style={{ color: "#fff", marginRight: "2rem" }}
               />
-              09050286949
+              09050286949 / 09453651409
             </h4>
           </div>
           <div className="Email">
@@ -45,10 +45,12 @@ const Footer = () => {
         <div className="right">
           <h4>About the Company</h4>
           <p>
-            A Driven individual who specializes in Casino Marketing, Customer
-            Service, Player Development, Events and Promotion as well as VIP
-            Services and Casino Operations.
+            DOWINN GROUP has started Operations in the Philippines for nearly 10
+            years; within these 10 years, the company has diversified from
+            Gaming Operations (Junkets), Casino Operations to F&B as well as
+            Entertainment businesses.
           </p>
+
           <div className="social">
             <FaFacebook
               size={30}
