@@ -13,7 +13,7 @@ const ProjectCardData = [
     imgsrc: pro2,
     title: "Some Points To Consider About Web Development.",
     text: "Are you a beginner in the world of web applications and development? There is nothing to be afraid of. Prepare yourself to handle the frontend backend and tools perfectly, rest all you will learn with different projects. It is a fact that every new project teaches you the skill to resolve problems.",
-    view: "https://www.google.com/",
+    view: "https://midriffinfosolution.org/some-points-to-consider-about-web-development/",
   },
   {
     imgsrc: pro3,
