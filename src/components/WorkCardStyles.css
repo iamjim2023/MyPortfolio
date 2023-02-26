@@ -21,7 +21,7 @@
     width: 100%;
 
     padding: 0.5rem 0.5rem;
-    background-color: #282A3A;
+    background: linear-gradient(to right, #434343 0%, black 100%);
 }
 
 .project-title {
