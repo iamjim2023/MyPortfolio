@@ -1,49 +1,48 @@
 .project-heading {
     text-align: center;
-    padding: 4rem 0 2rem 0;
+    padding: 5rem 0 5rem 0;
 }
 
-.project-container {
+.project-container1 {
     max-width: 1140px;
-    margin: auto;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    display:grid;
+    margin:auto;
     grid-gap: 40px;
-    padding-bottom: 5rem;
+    padding-bottom: 4rem;
 }
 
-.project-card {
+.project-card1 {
     background: #1a1919;
     padding: 1.2rem 1rem;
+    border: fixed;
 }
 
-.project-card img {
+.project-card1 img {
     width: 100%;
 
     padding: 0.5rem 0.5rem;
-    background: linear-gradient(to right, #434343 0%, black 100%);
+    background-color: #282A3A;
 }
 
-.project-title {
+.project-title1 {
     color: #fff;
     padding: 1rem 0;
     text-align: left;
 }
 
-.pro-details p {
-    padding-bottom: 1rem;
+.pro-details1 p {
+    padding-bottom: 5rem;
     font-size: 1.1rem;
     text-align: justify;
 }
 
-.pro-btns {
-    display: flex;
-    justify-content: space-between;
+.pro-btns1 {
     padding: 0.5rem 0;
+    display:flex;
+    justify-content: space-between;
 }
-
-.pro-btns .btn {
-    padding: 0.5rem 1rem;
+.pro-btns1 .btn {
+    padding: 0.5rem 3rem;
 }
 
 @media screen and (max-width: 740px) {
